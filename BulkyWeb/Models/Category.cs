@@ -11,6 +11,6 @@ namespace BulkyWeb.Models
         [DisplayName("Category Name")]
         public string Name { get; set; }
         [DisplayName("Display Order")]
-        public int DisplayOrder { get; set; }
+        public int DisplayOrder { get; set; } //test
     }
 }
